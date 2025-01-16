@@ -1,0 +1,71 @@
+/*Defaults*/
+nav,
+header,
+footer{
+    display: block;}
+
+    body{
+        line-height: 1;
+        margin: 0;
+        background-color:orangered;
+    }
+
+    
+
+    /*Nav bar*/
+    nav{
+        width:90%;
+        margin: 45px;
+        background-color: whitesmoke;
+    
+    }
+
+    nav ul{
+        
+        background-color: whitesmoke;
+        overflow: hidden;
+        color: darkblue;
+        margin-top: 45px;
+        margin-left: 45px;
+        margin-right: 45px;
+        padding: 20px;
+        font-size: 10px;
+
+    }
+
+     ul.topnav-right li{
+        list-style: none;
+        float: right;
+        padding: 25px;
+        text-transform: capitalize;
+        text-decoration: none;
+    }
+
+    img{
+        height: 10%;
+        width: 10%;
+        padding: 20px;
+        float: left;
+    }
+
+    ul.topnav-right li:hover{
+        color: white;
+        background-color: white;
+        text-decoration: none;
+    }
+
+
+    #outlook{
+        background-image: url('food\ delicacies.jpeg');
+        background-size: cover;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin: 0px 45px 45px 45px;
+        flex-direction: column;
+    }
+
+    .text-warning{
+        font-size: 40px;
+    }

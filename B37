@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        <!-- Bootstrap CSS -->
+        
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+
+        <!--Font awesome-->
+
+        <script src="https://kit.fontawesome.com/a24879a822.js" crossorigin="anonymous"></script>
+
+        <!--google fonts-->
+
+        <link
+            href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&family=Roboto+Slab:wght@200;400;600;900&display=swap"
+            rel="stylesheet" />
+
+            <!--css link-->
+
+            <link rel="stylesheet" href="c1.css">
+
+    <title>
+        RESTAURANT WEBPAGE
+    </title>
+    </head>
+    <body>
+        <div class="main-container container bg-white m-4">
+            <nav>
+                <div class="logo">
+                    <img src="logo.png" alt="">
+                </div>
+                <ul class="topnav-right">
+                    <li><a href="#Order Online & Pickup">Order Online & Pickup</a></li>
+                    <li><a href="#Contact & hours">Contact & hours</a></li>
+                    <li><a href="#Catering">Catering</a></li>
+                    <li><a href="#Menu">Menu</Menu></a></li>
+                    <li><a href="#Our Story">Our Story</a>
+                    <li><a href="#Home">Home</a></li>
+                </ul>
+            </nav>
+
+            <div id="outlook">
+                <p class="text-warning" style="font-size: 40px; text-transform: capitalize;">welcome to vectorant!!!!</p><br><br>
+                <p class="text-success" style="font-size: 25px; text-transform: capitalize;">our tastes are different</p><br>
+            </div>
+        </div>
+    </body>
+</html>
