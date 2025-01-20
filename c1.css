@@ -22,7 +22,7 @@ footer{
 
     nav ul{
         
-        background-color: whitesmoke;
+        background-color: white;
         overflow: hidden;
         color: darkblue;
         margin-top: 45px;
@@ -49,13 +49,13 @@ footer{
     }
 
     ul.topnav-right li:hover{
-        color: white;
-        background-color: white;
+        color: rgb(94, 40, 40);
+        background-color: rgb(94, 86, 86);
         text-decoration: none;
     }
 
 
-    #outlook{
+    #Home{
         background-image: url('food\ delicacies.jpeg');
         background-size: cover;
         height: 100vh;
@@ -68,4 +68,9 @@ footer{
 
     .text-warning{
         font-size: 40px;
+    }
+
+    /*main container*/
+    .main-container{
+        background-color: rgb(18, 18, 66);
     }

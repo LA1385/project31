@@ -28,7 +28,7 @@
     </title>
     </head>
     <body>
-        <div class="main-container container bg-white m-4">
+        <div class="main-container container-fluid m-5">
             <nav>
                 <div class="logo">
                     <img src="logo.png" alt="">
@@ -43,10 +43,78 @@
                 </ul>
             </nav>
 
-            <div id="outlook">
+            <div id="Home">
                 <p class="text-warning" style="font-size: 40px; text-transform: capitalize;">welcome to vectorant!!!!</p><br><br>
                 <p class="text-success" style="font-size: 25px; text-transform: capitalize;">our tastes are different</p><br>
             </div>
+
+            <br><br><br>
+
+
+            <!--Our story-->
+            <div class="container Our story p-5" id="Our story">
+           <div class="row">
+            <div class="col-4">
+                <img src="our story_img.png" alt="" class="img-fluid"/>
+            </div>
+
+            <div class="col-8">
+                <h4>about vectorant</h4>
+                <p>Vectorant (meaning “collection” in Italian), is a compilation of lively dining experiences. Colletta celebrates the best
+                of Italian American dishes with welcoming hospitality and service. Seasonal changes guide the menu of house-made pasta,
+                antipasti, pizzas and more. Staying true to Italian dining traditions, Colletta also offers a “For the Table”
+                chef-curated option for a family-style experience, offered nightly alongside the full à la carte menu.</p>
+
+            </div>
+           </div>
+            </div>
+
+           <br><br><br>
+
+
+        <!--Our story-->
+        <div class="container Our story p-5" id="Our story"></div>
+        <div class="row">
+            <div class="col-4">
+        
+            </div>
+        
+            <div class="col-8">
+        
+            </div>
+        </div>
+        
+        <br><br><br>
+
+
+        <!--Our story-->
+        <div class="container Our story p-5" id="Our story"></div>
+        <div class="row">
+            <div class="col-4">
+        
+            </div>
+        
+            <div class="col-8">
+        
+            </div>
+        </div>
+        
+        <br><br><br>
+
+
+        <!--Our story-->
+        <div class="container Our story p-5" id="Our story"></div>
+        <div class="row">
+            <div class="col-4">
+        
+            </div>
+        
+            <div class="col-8">
+        
+            </div>
+        </div>
+        
+        <br><br><br>
         </div>
     </body>
 </html>
